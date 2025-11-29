@@ -1,0 +1,7 @@
+{
+  "name": "ProHeadshot AI",
+  "description": "Transform everyday selfies into professional studio-grade headshots in minutes using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
